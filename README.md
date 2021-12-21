@@ -20,4 +20,8 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+Entity Relationship Diagram:
+
+
+![]("C:\Users\Jon\OneDrive\Desktop\CoinMix ERD.png")
+
